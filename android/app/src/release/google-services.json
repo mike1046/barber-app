@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "791415799775",
+    "firebase_url": "https://clypr-prod.firebaseio.com",
+    "project_id": "clypr-prod",
+    "storage_bucket": "clypr-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791415799775:android:37de1c10c39801f5",
+        "android_client_info": {
+          "package_name": "net.clypr.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791415799775-oicf8j777jun98va6nvfjpnq85gdk52n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_mv1jKgRIDcf34ArMNmJgoXMiY6r9Rbc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

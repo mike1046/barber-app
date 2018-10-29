@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "353320861096",
+    "firebase_url": "https://clypr-dev.firebaseio.com",
+    "project_id": "clypr-dev",
+    "storage_bucket": "clypr-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353320861096:android:37de1c10c39801f5",
+        "android_client_info": {
+          "package_name": "net.clypr.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353320861096-eil1nqq7oaju87810ptq5cs5capmcla2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.clypr.app",
+            "certificate_hash": "0feb534c38845cd366ca5b15aff68f433ddd774c"
+          }
+        },
+        {
+          "client_id": "353320861096-d95p2is5fgk1atn1rkqkr7robhasvkfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuMm7mfzRKWrbXK9Ni4Z7mGVwj8FRNXtg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353320861096-4af1d4nkus7r14h5ptad9lgloain9aub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.clypr.app"
+              }
+            },
+            {
+              "client_id": "353320861096-d95p2is5fgk1atn1rkqkr7robhasvkfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
